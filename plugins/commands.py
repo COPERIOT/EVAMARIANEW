@@ -247,7 +247,7 @@ async def start(client, message):
         chat_id=message.from_user.id,
         file_id=file_id,
         caption=f_caption,
-        reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('SUBSCRIBE', url='https://t.me/coperiot') ] ] ),
+        reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('JOIN❤️', url='https://t.me/coperiot') ] ] ),
         protect_content=True if pre == 'filep' else False,
         )
                     
