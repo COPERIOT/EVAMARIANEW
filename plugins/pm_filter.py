@@ -108,7 +108,7 @@ async def next_page(bot, query):
 
     btn.insert(0,
         [
-            InlineKeyboardButton(text="⚡ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ⚡", url='https://youtu.be/A6_YkUKgbgo')
+            InlineKeyboardButton(text="🔮 JOIN 🔮", url='https://t.me/coperiot')
         ]
     )
 
@@ -687,7 +687,7 @@ async def auto_filter(client, msg, spoll=False):
 
     btn.insert(0,
         [
-            InlineKeyboardButton(text="🔮ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ🔮", url='https://t.me/coperiot/68')
+            InlineKeyboardButton(text="🔮 JOIN 🔮", url='https://t.me/coperiot')
         ]
     )
 
